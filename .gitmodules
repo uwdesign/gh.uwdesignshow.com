@@ -1,0 +1,3 @@
+[submodule "docs/documentation"]
+	path = docs/documentation
+	url = https://github.com/uwdesign/documentation.uwdesignshow.com
