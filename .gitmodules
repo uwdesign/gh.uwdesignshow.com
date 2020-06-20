@@ -1,6 +1,0 @@
-[submodule "docs/2020/VisualTelephoneTag"]
-	path = docs/2020/VisualTelephoneTag
-	url = https://github.com/uwdesign/2020-VisualTelephoneTag.git
-[submodule "src/2013"]
-	path = src/2013
-	url = https://github.com/uwdesign/2013
