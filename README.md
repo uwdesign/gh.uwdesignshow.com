@@ -1,3 +1,0 @@
-# gh.uwdesignshow.com
-
-## Docs
