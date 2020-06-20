@@ -6,5 +6,5 @@
 ## 2013
 [Forked Repository](https://github.com/uwdesign/2013)
 
-## 2014 - Empty Repository
-[Forked Repository](https://github.com/uwdesign/2014)
+## 2014
+[Forked Repository - Empty](https://github.com/uwdesign/2014)
