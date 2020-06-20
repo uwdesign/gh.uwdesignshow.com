@@ -1,4 +1,4 @@
-# UW Design Show - GitHub (GH)
+UW Design Show - GitHub (GH)
 
 ## 2020
 [GitHub Page](https://gh.uwdesignshow.com/2020)
